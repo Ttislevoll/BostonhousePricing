@@ -17,3 +17,6 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+
+Link to jupyter notebook in Google Colab:
+https://colab.research.google.com/drive/1wlCvk1zgRuRiCcCcOerV-8RnmRsdVHaf?usp=sharing
