@@ -1,5 +1,10 @@
 ### Boston House Pricing Prediction
 
+Model and scaler made using jupyter notebooks. 
+Simple HTML home page for inputting values. 
+Dockerized to run on Heroku
+
+
 ### Software And Tools Requirements
 
 1. [Github Account](https://github.com)
